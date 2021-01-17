@@ -1,2 +1,2 @@
 # homebrew-oldversions
-Contains forumlas for older version of certain packages
+Contains formulas for older version of certain packages
