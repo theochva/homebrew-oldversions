@@ -1,4 +1,4 @@
-class OperatorSdk < Formula
+class OperatorSdkV110 < Formula
     desc "SDK for building Kubernetes applications"
     homepage "https://coreos.com/operators/"
     url "https://github.com/operator-framework/operator-sdk.git",
